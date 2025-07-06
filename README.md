@@ -18,7 +18,7 @@ Passionate about building robust, maintainable, and user-focused applications—
 ## 🚀 Current Projects
 
 - **Portfolio Website**  
-  Modern, content-driven portfolio built with Next.js, React, Tailwind CSS, and React Query.  
+  Modern, content-driven portfolio built with Next.js, React, Redux, Tailwind CSS, and React Query.  
   [View Live](dummylink) | [Source Code](dummylink)
 
 - **LOVE Engine**  
