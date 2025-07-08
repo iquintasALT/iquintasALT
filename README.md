@@ -44,10 +44,10 @@ C++, C#, JavaScript, TypeScript, Python, Java, HTML, CSS
 React, Next.js, React Query, Redux, Tailwind CSS, Framer Motion, Jest, Axios, WebAssembly
 
 **Frameworks & Libraries (Game Development):**  
-VS/VSCode, Android Studio, Unity, Unreal Engine, Phaser, PyTorch, OpenCV, SDL, OGRE, FMOD
+Unity, Unreal Engine, Phaser, PyTorch, OpenCV, SDL, OGRE, FMOD
 
 **Dev Tools & Platforms:**  
-Git, Docker, CI/CD, CMake, AWS, Jira
+Git, VS/VSCode, Android Studio, Docker, CI/CD, CMake, AWS, Jira
 
 **AI:**  
 Convolutional Neural Networks, Computer Vision, Data Filtering, AI Models (SageMaker, PyTorch)
