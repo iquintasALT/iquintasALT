@@ -8,9 +8,9 @@ Passionate about building robust, maintainable, and user-focused applications—
 ## 🧑‍💻 About Me
 
 - 🎓 Bachelor’s Degree in Video Game Development, Complutense University of Madrid
-- Solid foundation in software engineering, with a special focus on testing, code quality, and documentation
-- Experienced in C++, C#, Python, Java, JavaScript, and modern web technologies
-- Strong background in game engines, graphics, and AI, with hands-on experience in both solo and team projects
+- Solid foundation in software engineering, with a special interest in testing and code quality
+- Experienced in C++, C#, JavaScript, TypeScript, and modern web technologies
+- Strong background in game engines, efficient code, and AI, with hands-on experience in both solo and team projects
 - Committed to continuous learning and always eager for new challenges in software or game development
 
 ---
@@ -19,7 +19,7 @@ Passionate about building robust, maintainable, and user-focused applications—
 
 - **Portfolio Website**  
   Modern, content-driven portfolio built with Next.js, React, Redux, Tailwind CSS, and React Query.  
-  [View Live](iquintasalt.vercel.app) | [Source Code](https://github.com/iquintasALT/portfolio)
+  [View Live](https://iquintasalt.vercel.app) | [Source Code](https://github.com/iquintasALT/portfolio)
 
 - **LOVE Engine**  
   Custom C++ engine based on the OGRE library.  
@@ -40,20 +40,24 @@ Passionate about building robust, maintainable, and user-focused applications—
 **Languages:**  
 C++, C#, JavaScript, TypeScript, Python, Java, HTML, CSS
 
-**Frameworks & Libraries:**  
-React, Next.js, React Query, Redux, Tailwind CSS, Framer Motion, Phaser, PyTorch, OpenCV, SDL, OGRE, FMOD, WebAssembly, Jest
+**Frameworks & Libraries (Full-Stack):**  
+React, Next.js, React Query, Redux, Tailwind CSS, Framer Motion, Jest, Axios, WebAssembly
+
+**Frameworks & Libraries (Game Development):**  
+VS/VSCode, Android Studio, Unity, Unreal Engine, Phaser, PyTorch, OpenCV, SDL, OGRE, FMOD
 
 **Dev Tools & Platforms:**  
-Git, Docker, CI/CD, CMake, Android Studio, Visual Studio, AWS, Jira, Unity, Bugzilla
+Git, Docker, CI/CD, CMake, AWS, Jira
 
 **AI:**  
 Convolutional Neural Networks, Computer Vision, Data Filtering, AI Models (SageMaker, PyTorch)
 
 **Soft Skills:**  
- Agile, Scrum, Teamwork, Problem Solving, Adaptability
+Agile, Scrum, Teamwork, Problem Solving, Adaptability
 
-**Languages:**  
+**Spoken Languages:**  
 Spanish (Native), English (Proficient)
+
 
 ---
 
