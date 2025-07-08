@@ -79,7 +79,7 @@ Complutense University of Madrid
 ## 📫 Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/iagoq/)
-- [Portfolio](iquintasalt.vercel.app)
+- [Portfolio](https://iquintasalt.vercel.app)
 - [Email](mailto:iquintas@ucm.es)
 
 ---
