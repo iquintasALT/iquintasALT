@@ -7,7 +7,7 @@ Passionate about building robust, maintainable, and user-focused applications—
 
 ## 🧑‍💻 About Me
 
-- 🎓 Bachelor’s Degree in Video Game Development (2019–2024), Complutense University of Madrid
+- 🎓 Bachelor’s Degree in Video Game Development, Complutense University of Madrid
 - Solid foundation in software engineering, with a special focus on testing, code quality, and documentation
 - Experienced in C++, C#, Python, Java, JavaScript, and modern web technologies
 - Strong background in game engines, graphics, and AI, with hands-on experience in both solo and team projects
@@ -19,26 +19,26 @@ Passionate about building robust, maintainable, and user-focused applications—
 
 - **Portfolio Website**  
   Modern, content-driven portfolio built with Next.js, React, Redux, Tailwind CSS, and React Query.  
-  [View Live](dummylink) | [Source Code](dummylink)
+  [View Live](iquintasalt.vercel.app) | [Source Code](https://github.com/iquintasALT/portfolio)
 
 - **LOVE Engine**  
   Custom C++ engine based on the OGRE library.  
-  [Repo](dummylink)
+  [Repo](https://github.com/Triturados/Motor)
 
 - **DOME**  
   C++ 2D survival game using SDL.  
-  [Repo](dummylink)
+  [Repo](https://github.com/iquintasALT/DOME)
 
 - **Veiled**  
   JavaScript 2D adventure browser game built with Phaser.  
-  [Repo](dummylink)
+  [Repo](https://github.com/aarmor01/Veiled)
 
 ---
 
 ## 🛠️ Skills & Tools
 
 **Languages:**  
-C++, C#, Python, Java, JavaScript, TypeScript, HTML, CSS, REST
+C++, C#, JavaScript, TypeScript, Python, Java, HTML, CSS
 
 **Frameworks & Libraries:**  
 React, Next.js, React Query, Redux, Tailwind CSS, Framer Motion, Phaser, PyTorch, OpenCV, SDL, OGRE, FMOD, WebAssembly, Jest
@@ -50,7 +50,7 @@ Git, Docker, CI/CD, CMake, Android Studio, Visual Studio, AWS, Jira, Unity, Bugz
 Convolutional Neural Networks, Computer Vision, Data Filtering, AI Models (SageMaker, PyTorch)
 
 **Soft Skills:**  
-Teamwork, Problem Solving, Adaptability, Agile, Scrum
+ Agile, Scrum, Teamwork, Problem Solving, Adaptability
 
 **Languages:**  
 Spanish (Native), English (Proficient)
@@ -74,8 +74,8 @@ Complutense University of Madrid
 
 ## 📫 Get in Touch
 
-- [LinkedIn](dummylink)
-- [Portfolio](dummylink)
-- [Email](dummylink)
+- [LinkedIn](https://www.linkedin.com/in/iagoq/)
+- [Portfolio](iquintasalt.vercel.app)
+- [Email](mailto:iquintas@ucm.es)
 
 ---
